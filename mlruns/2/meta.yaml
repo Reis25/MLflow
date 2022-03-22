@@ -1,0 +1,4 @@
+artifact_location: file:///home/demetrios/Downloads/Repositorios/MLflow/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: RF_experimento

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/demetrios/Downloads/Repositorios/MLflow/mlruns/2/278e3aceb36f4afda494567d47ee8800/artifacts
+end_time: 1647974009937
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 278e3aceb36f4afda494567d47ee8800
+run_uuid: 278e3aceb36f4afda494567d47ee8800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1647974009524
+status: 4
+tags: []
+user_id: demetrios
